@@ -1,2 +1,11 @@
-nyess.ny.gov
-https://nyess.ny.gov/
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>09/11/2020 13:23:20</date-created>
+  </created-by>
+  <site url="nyess.ny.gov">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
